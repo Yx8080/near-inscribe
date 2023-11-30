@@ -1,7 +1,8 @@
 #NEAR-INSCRIBE
+
 python version : 3.9.9
 
-near-py[https://py-near.readthedocs.io/en/latest/quickstart.html]
+[near-py[]](https://py-near.readthedocs.io/en/latest/quickstart.html)
 
 install
 ```bash
